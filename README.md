@@ -1,5 +1,5 @@
 # Introduction 
-This is a sample WinForms app to demonstrate how to wire-up non-SMTP email with Office365. Microsoft has examples for WPF and UWP, but not WinForms, hence the creation of this small app.
+This is a sample .NET Framework 4.8 WinForms app to demonstrate how to wire-up non-SMTP email with Office365. Microsoft has examples for WPF and UWP, but not WinForms, hence the creation of this small app. I've created it, too, to show that it's possible to use an older .NET Framework 4.8 with Microsoft Graph.
 
 ### How to Set Up 
 1. Register application with Azure
